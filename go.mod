@@ -1,4 +1,4 @@
-module github.com/bashims/fsnotify
+module github.com/benashz/fsnotify
 
 go 1.13
 
